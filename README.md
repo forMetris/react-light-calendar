@@ -1,6 +1,10 @@
-# React-Light-Calendar[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
+# React-Light-Calendar [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 > A minimalistic calendar picker for React.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/forMetris/react-light-calendar/master/art/screenshot.png" alt="React-Light-Calendar-Screenshot">
+</p>
 
 ## Install
 
