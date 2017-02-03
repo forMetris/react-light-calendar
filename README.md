@@ -6,7 +6,7 @@
 
 ```console
 $ npm install --save moment # required
-$ npm install --save calendar-picker
+$ npm install --save react-light-calendar
 ```
 ## Features
 
