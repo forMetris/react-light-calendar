@@ -1,4 +1,4 @@
-# React-Ligth-Calendar[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
+# React-Light-Calendar[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 > A minimalistic calendar picker for React.
 
@@ -17,7 +17,7 @@ $ npm install --save calendar-picker
 ## Usage
 
 ```js
-import Calendar from 'carembar'
+import Calendar from 'react-light-calendar'
 
 // ...
 
