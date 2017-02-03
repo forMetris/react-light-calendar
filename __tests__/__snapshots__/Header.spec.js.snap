@@ -1,0 +1,130 @@
+exports[`test Should accept custom styling 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "red",
+      "borderBottom": "none",
+      "margin": "auto",
+      "padding": "0",
+      "position": "relative",
+      "textAlign": "right",
+      "textTransform": "none",
+    }
+  }>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "left": "8px",
+        "position": "absolute",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    <
+  </div>
+  <div>
+    February 2017
+  </div>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "position": "absolute",
+        "right": "8px",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    >
+  </div>
+</div>
+`;
+
+exports[`test Should display the month according to the locale 1`] = `
+<div
+  style={
+    Object {
+      "borderBottom": "1px solid #d7d8d9",
+      "padding": "12px",
+      "position": "relative",
+      "textAlign": "center",
+      "textTransform": "uppercase",
+    }
+  }>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "left": "8px",
+        "position": "absolute",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    <
+  </div>
+  <div>
+    février 2017
+  </div>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "position": "absolute",
+        "right": "8px",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    >
+  </div>
+</div>
+`;
+
+exports[`test Should render the month with the year 1`] = `
+<div
+  style={
+    Object {
+      "borderBottom": "1px solid #d7d8d9",
+      "padding": "12px",
+      "position": "relative",
+      "textAlign": "center",
+      "textTransform": "uppercase",
+    }
+  }>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "left": "8px",
+        "position": "absolute",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    <
+  </div>
+  <div>
+    February 2017
+  </div>
+  <div
+    onClick={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+        "position": "absolute",
+        "right": "8px",
+        "top": "50%",
+        "transform": "translateY(-50%)",
+      }
+    }>
+    >
+  </div>
+</div>
+`;

@@ -1,0 +1,52 @@
+exports[`test Should provide style to its children based on the theme 1`] = `
+<div>
+  <Header
+    currentMonth={"2014-01-31T23:00:00.000Z"}
+    onChange={[Function]}
+    style={
+      Object {
+        "headerStyle": Object {
+          "color": "#323a45",
+          "fontFamily": "cursive",
+          "fontStyle": "italic",
+          "textTransform": "none",
+        },
+      }
+    } />
+  <Body
+    activatedIntervals={undefined}
+    active={"2014-01-31T23:00:00.000Z"}
+    currentMonth={"2014-01-31T23:00:00.000Z"}
+    disabledIntervals={undefined}
+    onChange={[Function]}
+    style={
+      Object {
+        "currentMonthStyle": Object {
+          "color": "green",
+          "fontFamily": "cursive",
+        },
+        "disabledStyle": Object {
+          "color": "#ff003c",
+        },
+        "nameStyle": Object {
+          "fontFamily": "cursive",
+          "fontStyle": "italic",
+          "fontWeight": "normal",
+          "textTransform": "uppercase",
+        },
+        "outOfMonthStyle": Object {
+          "color": "#979899",
+          "fontFamily": "cursive",
+        },
+        "selectedStyle": Object {
+          "backgroundColor": "#ff003c",
+          "color": "#fff",
+        },
+        "todayStyle": Object {
+          "fontStyle": "normal",
+          "fontWeight": "italic",
+        },
+      }
+    } />
+</div>
+`;

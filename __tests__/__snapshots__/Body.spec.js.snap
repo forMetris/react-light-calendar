@@ -1,0 +1,2993 @@
+exports[`test Should accept custom styling 1`] = `
+<table
+  style={
+    Object {
+      "width": "100%",
+    }
+  }>
+  <thead>
+    <tr>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sun
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Mon
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Tue
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Wed
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Thu
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Fri
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sat
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        29
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        30
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        31
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "fontStyle": "italic",
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "green",
+            "borderRadius": "2px",
+            "color": "white",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "right",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "green",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        13
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        14
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        15
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        16
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        17
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        18
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        19
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        20
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        21
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        22
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={null}
+        style={
+          Object {
+            "backgroundColor": "red",
+            "borderRadius": "2px",
+            "color": "#ff003c",
+            "cursor": "not-allowed",
+            "opacity": ".5",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`test Should render a calendar 1`] = `
+<table
+  style={
+    Object {
+      "width": "100%",
+    }
+  }>
+  <thead>
+    <tr>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sun
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Mon
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Tue
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Wed
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Thu
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Fri
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sat
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        29
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        30
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        31
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "fontStyle": "italic",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        13
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        14
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        15
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        16
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        17
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        18
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        19
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        20
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        21
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`test Should render a calendar according to the locale 1`] = `
+<table
+  style={
+    Object {
+      "width": "100%",
+    }
+  }>
+  <thead>
+    <tr>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        dim
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        lun
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        mar
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        mer
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        jeu
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        ven
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        sam
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        29
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        30
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        31
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "fontStyle": "italic",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#323a45",
+            "borderRadius": "2px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        13
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        14
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        15
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        16
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        17
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        18
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        19
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        20
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        21
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`test Should render a calendar with a selected date 1`] = `
+<table
+  style={
+    Object {
+      "width": "100%",
+    }
+  }>
+  <thead>
+    <tr>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sun
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Mon
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Tue
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Wed
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Thu
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Fri
+      </td>
+      <td
+        style={
+          Object {
+            "fontWeight": "bold",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        Sat
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        29
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        30
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        31
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "fontStyle": "italic",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#323a45",
+            "borderRadius": "2px",
+            "color": "#fff",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        13
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        14
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        15
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        16
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        17
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        18
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        19
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        20
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        21
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        23
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        24
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        25
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        26
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        27
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#313131",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        28
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        1
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        2
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        3
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        4
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        5
+      </td>
+    </tr>
+    <tr>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        6
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        7
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        8
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        9
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        10
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
