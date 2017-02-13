@@ -1,6 +1,6 @@
 {
   "name": "react-light-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, yet customizable React component for rendering date pickers",
   "main": "build/index.js",
   "scripts": {

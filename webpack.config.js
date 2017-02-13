@@ -7,7 +7,8 @@ module.exports = {
   output: {
     path: path.join(__dirname, 'build'),
     filename: 'index.js',
-    libraryTarget: 'umd'
+    libraryTarget: 'umd',
+    library: 'ReactLightCalendar'
   },
   module: {
     loaders: [{
@@ -18,8 +19,8 @@ module.exports = {
   plugins: [
     new webpack.optimize.UglifyJsPlugin({ minimize: true })
   ],
-  externals: [
-    'react',
-    'moment'
-  ]
+  externals: {
+    react: 'React',
+    moment: 'moment'
+  }
 }

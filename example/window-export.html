@@ -1,0 +1,36 @@
+<html>
+  <body>
+    <div id="app"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.34/browser.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.js"></script>
+    <script src="../build/index.js"></script>
+
+    <script type="text/babel">
+      var Calendar = ReactLightCalendar.default
+  
+      class App extends React.Component {
+        constructor (props) {
+          super(props)
+
+          this.state = {}
+        }
+      
+        render () {
+          return (
+            <Calendar
+              date={this.state.selected}
+              onChange={selected => this.setState({ selected })}
+            />
+          )
+        }
+      }
+
+      ReactDOM.render(
+        <App />,
+        document.querySelector('#app')
+      )
+    </script>
+  </body>
+</html>
