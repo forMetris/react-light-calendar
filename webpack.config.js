@@ -20,7 +20,12 @@ module.exports = {
     new webpack.optimize.UglifyJsPlugin({ minimize: true })
   ],
   externals: {
-    react: 'React',
+    react: {
+      root: 'React',
+      commonjs2: 'react',
+      commonjs: 'react',
+      amd: 'react'
+    },
     moment: 'moment'
   }
 }

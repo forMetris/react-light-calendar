@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom'
 import moment from 'moment'
-import Calendar from '../src'
+import Calendar from '../build'
 
 const customTheme = {
   header: {
