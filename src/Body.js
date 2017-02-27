@@ -21,7 +21,11 @@ class Body extends Component {
   renderDayNames () {
     const { style = {} } = this.props
     const { nameStyle = {} } = style
-    const days = moment.weekdays().map(d => d.substr(0, 3))
+    const days = []
+
+    for (let i = 0; i < 7 ; i += 1) {
+      days.push(moment.weekdays(true, i).substr(0, 3))
+    }
 
     return (
       <tr>
@@ -154,7 +158,7 @@ class Body extends Component {
     const startDay = currentMonth.clone()
       .startOf('month')
       .add(-1, 'week')
-      .day('Monday') // TODO: Find first day given the current locale
+      .weekday(0)
     let monthNumber = startDay.month()
     let count = 0
     let done = false
