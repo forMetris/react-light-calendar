@@ -92,6 +92,19 @@ exports[`test Should accept custom styling 1`] = `
             "textAlign": "center",
           }
         }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "blue",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
         23
       </td>
       <td
@@ -159,6 +172,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         28
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -172,8 +187,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         29
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -233,8 +246,6 @@ exports[`test Should accept custom styling 1`] = `
             "borderRadius": "2px",
             "color": "green",
             "cursor": "pointer",
-            "fontStyle": "italic",
-            "fontWeight": "bold",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -254,6 +265,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -268,8 +281,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -350,6 +361,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         11
       </td>
+    </tr>
+    <tr>
       <td
         onClick={null}
         style={
@@ -365,8 +378,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         12
       </td>
-    </tr>
-    <tr>
       <td
         onClick={null}
         style={
@@ -457,6 +468,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         18
       </td>
+    </tr>
+    <tr>
       <td
         onClick={null}
         style={
@@ -472,8 +485,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         19
       </td>
-    </tr>
-    <tr>
       <td
         onClick={null}
         style={
@@ -564,6 +575,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         25
       </td>
+    </tr>
+    <tr>
       <td
         onClick={null}
         style={
@@ -579,8 +592,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         26
       </td>
-    </tr>
-    <tr>
       <td
         onClick={null}
         style={
@@ -589,6 +600,8 @@ exports[`test Should accept custom styling 1`] = `
             "borderRadius": "2px",
             "color": "#ff003c",
             "cursor": "not-allowed",
+            "fontStyle": "italic",
+            "fontWeight": "bold",
             "opacity": ".5",
             "padding": "12px 0",
             "textAlign": "center",
@@ -665,6 +678,8 @@ exports[`test Should accept custom styling 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -678,8 +693,6 @@ exports[`test Should accept custom styling 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -757,19 +770,6 @@ exports[`test Should accept custom styling 1`] = `
           }
         }>
         11
-      </td>
-      <td
-        onClick={[Function]}
-        style={
-          Object {
-            "borderRadius": "2px",
-            "color": "blue",
-            "cursor": "pointer",
-            "padding": "12px 0",
-            "textAlign": "center",
-          }
-        }>
-        12
       </td>
     </tr>
   </tbody>
@@ -870,6 +870,19 @@ exports[`test Should render a calendar 1`] = `
             "textAlign": "center",
           }
         }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
         23
       </td>
       <td
@@ -937,6 +950,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         28
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -950,8 +965,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         29
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1011,7 +1024,6 @@ exports[`test Should render a calendar 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
-            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -1031,6 +1043,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1044,8 +1058,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1124,6 +1136,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         11
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1137,8 +1151,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         12
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1217,6 +1229,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         18
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1230,8 +1244,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         19
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1310,6 +1322,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         25
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1323,8 +1337,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         26
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1332,6 +1344,7 @@ exports[`test Should render a calendar 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
+            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -1403,6 +1416,8 @@ exports[`test Should render a calendar 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1416,8 +1431,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1496,19 +1509,6 @@ exports[`test Should render a calendar 1`] = `
         }>
         11
       </td>
-      <td
-        onClick={[Function]}
-        style={
-          Object {
-            "borderRadius": "2px",
-            "color": "#a7a8a9",
-            "cursor": "pointer",
-            "padding": "12px 0",
-            "textAlign": "center",
-          }
-        }>
-        12
-      </td>
     </tr>
   </tbody>
 </table>
@@ -1523,16 +1523,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
   }>
   <thead>
     <tr>
-      <td
-        style={
-          Object {
-            "fontWeight": "bold",
-            "padding": "12px 0",
-            "textAlign": "center",
-          }
-        }>
-        dim
-      </td>
       <td
         style={
           Object {
@@ -1593,23 +1583,20 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         sam
       </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
       <td
-        onClick={[Function]}
         style={
           Object {
-            "borderRadius": "2px",
-            "color": "#a7a8a9",
-            "cursor": "pointer",
+            "fontWeight": "bold",
             "padding": "12px 0",
             "textAlign": "center",
           }
         }>
-        22
+        dim
       </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1688,8 +1675,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         28
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1703,6 +1688,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         29
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1762,7 +1749,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
-            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -1782,8 +1768,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         4
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1798,6 +1782,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         5
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1876,8 +1862,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         11
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1891,6 +1875,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         12
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1969,8 +1955,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         18
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -1984,6 +1968,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         19
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2062,8 +2048,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         25
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2077,6 +2061,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         26
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2084,6 +2070,7 @@ exports[`test Should render a calendar according to the locale 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
+            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -2155,8 +2142,6 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         4
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2170,6 +2155,8 @@ exports[`test Should render a calendar according to the locale 1`] = `
         }>
         5
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2247,6 +2234,19 @@ exports[`test Should render a calendar according to the locale 1`] = `
           }
         }>
         11
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
+        12
       </td>
     </tr>
   </tbody>
@@ -2347,6 +2347,19 @@ exports[`test Should render a calendar with a selected date 1`] = `
             "textAlign": "center",
           }
         }>
+        22
+      </td>
+      <td
+        onClick={[Function]}
+        style={
+          Object {
+            "borderRadius": "2px",
+            "color": "#a7a8a9",
+            "cursor": "pointer",
+            "padding": "12px 0",
+            "textAlign": "center",
+          }
+        }>
         23
       </td>
       <td
@@ -2414,6 +2427,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         28
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2427,8 +2442,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         29
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2488,7 +2501,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
-            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -2508,6 +2520,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2522,8 +2536,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2602,6 +2614,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         11
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2615,8 +2629,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         12
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2695,6 +2707,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         18
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2708,8 +2722,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         19
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2788,6 +2800,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         25
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2801,8 +2815,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         26
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2810,6 +2822,7 @@ exports[`test Should render a calendar with a selected date 1`] = `
             "borderRadius": "2px",
             "color": "#313131",
             "cursor": "pointer",
+            "fontStyle": "italic",
             "padding": "12px 0",
             "textAlign": "center",
           }
@@ -2881,6 +2894,8 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         4
       </td>
+    </tr>
+    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2894,8 +2909,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
         }>
         5
       </td>
-    </tr>
-    <tr>
       <td
         onClick={[Function]}
         style={
@@ -2973,19 +2986,6 @@ exports[`test Should render a calendar with a selected date 1`] = `
           }
         }>
         11
-      </td>
-      <td
-        onClick={[Function]}
-        style={
-          Object {
-            "borderRadius": "2px",
-            "color": "#a7a8a9",
-            "cursor": "pointer",
-            "padding": "12px 0",
-            "textAlign": "center",
-          }
-        }>
-        12
       </td>
     </tr>
   </tbody>
